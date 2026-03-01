@@ -5,4 +5,8 @@ Simple tool to check your ip address, location and time zone.
 ```bash
 ./prs ## thats all
 ```
+## And also you need to browse:
+```bash
+http://localhost:8080/api
+```
 ## So easy yeah
